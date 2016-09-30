@@ -18,6 +18,7 @@ How to run without installing xammp or wamp apchi server?
 5. brows the project
 
 Example
+
 1. My downloaded php folder name 'php' and full location/path such as 'C:\Users\Sinha\Desktop\phpbuildin\php'
 2. My app folder name 'crud_sqlite3' and full location/path such as 'C:\Users\Sinha\Desktop\phpbuildin\crud_sqlite3' 
 3. Open CMD (Command Prompt)
