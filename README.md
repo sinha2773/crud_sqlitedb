@@ -9,7 +9,7 @@ PS: You can run the apps without installing xammp or wamp apchi server
 
 How to run without installing xammp or wamp apchi server?
 
-***Will support PHP Version >= 5.4 ***
+*** Will support PHP Version >= 5.4 ***
 
 1. download the php http://php.net/downloads.php
 2. extract and keep it in your PC of any location
