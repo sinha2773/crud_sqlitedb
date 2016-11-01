@@ -5,9 +5,9 @@ Db.php is the class file with Sqlite database connection and insert, update, del
 my_sqlite_db.db is the sqlite database.
 index.php is for front end where the Db class loading by autoloader and representing the user interface.
 
-PS: You can run the apps without installing xammp or wamp apchi server
+PS: You can run the apps without installing xammp or wamp apache server
 
-How to run without installing xammp or wamp apchi server?
+How to run without installing xammp or wamp apache server?
 
 *** Will support PHP Version >= 5.4 ***
 
